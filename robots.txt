@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oratagon.github.io/sitemap.html.gz
+Sitemap: https://oratagon.github.io/app/sitemap.html.gz
+Sitemap: https://oratagon.github.io/assets/sitemap.html.gz
+Sitemap: https://oratagon.github.io/css/sitemap.html.gz
+Sitemap: https://oratagon.github.io/includes/sitemap.html.gz
+Sitemap: https://oratagon.github.io/item/sitemap.html.gz
+Sitemap: https://oratagon.github.io/src/sitemap.html.gz
